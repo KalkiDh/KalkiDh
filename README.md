@@ -2,13 +2,13 @@
 
 # 👋 Hi, I'm Dron Haritwal
 
-### AI Engineer | Full Stack Developer | Data Science Enthusiast
+### AI Engineer | Data Science Enthusiast | Gen AI | Full Stack
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Production-Grade+AI+Systems;LLM+Orchestration+%26+RAG+Pipelines;Multi-Agent+Financial+Analysis;Full+Stack+%2B+Machine+Learning" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dronharitwal)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dh4829@srmist.edu.in)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dronharitwal123@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](dronharitwalportfolio.vercel.app)
 
 </div>
 
