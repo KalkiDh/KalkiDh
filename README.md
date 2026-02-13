@@ -8,7 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dronharitwal)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dronharitwal123@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](dronharitwalportfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dronharitwalportfolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KalkiDh)
 
 </div>
 
@@ -84,65 +85,6 @@ Currently researching **multi-agent financial analysis platforms** at **Ontario 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎓 Research & Projects
-
-```python
-current_focus = {
-    "research": "Multi-Agent Financial Analysis Platform",
-    "institution": "Ontario Tech University",
-    "areas": ["LLM Orchestration", "RAG Systems", "Agent Frameworks"],
-    "applications": ["Finance", "Resume Analysis", "Video Q&A"]
-}
-```
-
----
-
-## 🌱 Currently Exploring
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((AI/ML))
-    LLM Applications
-      Agent Frameworks
-      Prompt Engineering
-      Fine-tuning
-    Distributed Systems
-      Kubernetes
-      Message Queues
-      Service Mesh
-    Advanced RAG
-      Hybrid Search
-      Query Routing
-      Reranking
-    MLOps
-      Model Monitoring
-      CI/CD Pipelines
-      A/B Testing
-```
-
-</div>
-
----
-
 ## 💡 Philosophy
 
 <div align="center">
@@ -161,11 +103,10 @@ mindmap
 
 **Open to collaborating on innovative AI/ML projects and exploring new frontiers in distributed systems**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail)](mailto:dh4829@srmist.edu.in)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6366f1" alt="Profile Views" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dronharitwal)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail)](mailto:dronharitwal123@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)](https://dronharitwalportfolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/KalkiDh)
 
 </div>
 
